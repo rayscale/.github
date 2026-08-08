@@ -17,6 +17,6 @@ Rayscale builds foundational tooling to bring absolute consistency, deterministi
 
 ## Directives
 
-- **State:** Active / Pre-Alpha
-- **Focus:** Systems Engineering, Core Tooling, Deterministic Runtimes
+- **State:** Active / In Develop
+- **Focus:** Systems Engineering & Core Tooling
 - **Contact:** contact@rayscale.online
