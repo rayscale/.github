@@ -1,22 +1,27 @@
 # Rayscale
 
-> **Engineering the Standard.**
+> **Engineering the Future.**
 
-Rayscale builds foundational tooling to bring absolute consistency, deterministic performance, and architectural clarity back to software development. We leverage modern execution environments pragmatically to strip away legacy bloat, arbitrary abstractions, and chaotic dependencies.
+Rayscale is an independent technology company focused on building software, tools, and systems that move technology forward.
 
----
+We explore ideas, engineer solutions, and develop products with a strong emphasis on design, performance, and simplicity.
 
-## The Core Principles
+## What We Do
 
-- **Pragmatic Purity:** Utilizing existing runtime foundations while enforcing strict, uncompromising design constraints.
-- **Absolute Consistency:** Streamlining how data flows, state is managed, and systems execute without redundant layers.
-- **Radical Clarity:** Eliminating hidden magic, unnecessary boilerplate, and fragile third-party bandages.
-- **Vertical Harmony:** Designing tools that operate as a unified, predictable machine.
+- **Software Engineering** — Building reliable, scalable, and thoughtfully engineered software.
+- **Technology** — Exploring new technologies, systems, and possibilities.
+- **Product Development** — Turning ideas into functional, purposeful products.
+- **Research & Innovation** — Experimenting with new approaches to existing problems.
 
----
+## Our Philosophy
 
-## Directives
+We believe technology should be intentional. Every decision, every abstraction, and every line of code should have a reason to exist.
 
-- **State:** Active / In Develop
-- **Focus:** Systems Engineering & Core Tooling
+We value simplicity over complexity, precision over convention, and thoughtful engineering over unnecessary innovation.
+
+## Information
+
+- **Status:** Independent
+- **Focus:** Technology & Software Engineering
+- **Website:** [rayscale.online](https://rayscale.online)
 - **Contact:** contact@rayscale.online
